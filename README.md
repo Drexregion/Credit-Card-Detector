@@ -50,7 +50,7 @@ To run this project locally, you need to have Python installed along with the re
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/idaraabasiudoh/drug-classification-decision-tree.git
+git clone https://github.com/Drexregion/Credit-Card-Detector
 cd creditcard-fraud-detection
 pip install -r requirements.txt
 ```
@@ -59,7 +59,7 @@ To use this repository, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/idaraabasiudoh/drug-classification-decision-tree.git
+    git clone https://github.com/Drexregion/Credit-Card-Detector
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -117,7 +117,7 @@ We welcome contributions from the community to improve this project. To contribu
 
 2. **Clone the Repository**: Clone your forked repository to your local machine.
     ```bash
-    git clone https://github.com/idaraabsiudoh/creditcard-fraud-detection.git
+    git clone https://github.com/Drexregion/Credit-Card-Detector
     ```
 
 3. **Create a New Branch**: Create a new branch for your feature or bug fix.
@@ -141,11 +141,6 @@ We welcome contributions from the community to improve this project. To contribu
 
 We appreciate your contributions and will review your pull request as soon as possible. Thank you for helping to improve this project!
 
-
-
-| Date (YYYY-MM-DD) | Version | Changed By        | Change Description                               |
-| ----------------- | ------- | ----------------- | ------------------------------------------------ |
-| 2024-08-19        | 1.0     | Idara-Abasi Udoh  | Project completion                         |
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
