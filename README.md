@@ -141,14 +141,7 @@ We welcome contributions from the community to improve this project. To contribu
 
 We appreciate your contributions and will review your pull request as soon as possible. Thank you for helping to improve this project!
 
-## Acknowledgments
-We would like to acknowledge the following individuals for their contributions and support in the development of this project:
 
-- **[Idara-Abasi Udoh](http://www.linkedin.com/in/idaraabasiudoh)**
-- **[Andreea Anghel]**
-- **[Joseph Santarcangelo]**
-
-## Change Log
 
 | Date (YYYY-MM-DD) | Version | Changed By        | Change Description                               |
 | ----------------- | ------- | ----------------- | ------------------------------------------------ |
